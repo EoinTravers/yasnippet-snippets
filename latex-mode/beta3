@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: beta3
+# key: beta3
+# --
+$exp^{\beta}$ = $1\%, CI = [$2\%, $3\%], t($4) = $5, p = $6

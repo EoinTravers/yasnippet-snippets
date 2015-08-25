@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: chi
+# key: chi
+# --
+$\chi^2$  = $1, DF = $2, p = $3

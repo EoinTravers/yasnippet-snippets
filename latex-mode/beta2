@@ -2,4 +2,4 @@
 # name: beta2
 # key: beta2
 # --
-$exp^{\beta}$ = $1, CI = [$2, $3], z = $4, p = $5
+$e^{\beta}$ = $1, CI = [$2, $3], z = $4, p = $5

@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: CI
-# key: CI
+# name: beta2
+# key: beta2
 # --
-CI = [$1, $2]
+$e^{\beta}$ = $1, CI = [$2, $3], z = $4, p = $5

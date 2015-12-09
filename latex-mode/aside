@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: aside
+# key: a
+# --
+\aside{$0}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: CI&%
+# key: CI%
+# --
+CI = [$1\%, $2\%]
